@@ -6,7 +6,7 @@ Uma página de produto simples e responsiva, desenvolvida com HTML e CSS, basead
 
 [🔗 Acesse o projeto online](https://lucasdoeni.github.io/Cartao-Produto/)
 
-![Screenshot da Página](./assets/img/desktop-design.jpg)
+![Screenshot da Página](./design/desktop-design.jpg)
 
 ## Funcionalidades
 
